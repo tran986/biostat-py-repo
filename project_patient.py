@@ -12,7 +12,7 @@ print("hello")
 print("Skin and softt tissue infection (SSI) after open and minimally invasive surgery")
 
 #import data + first glance:
-df=pd.read_csv("~/Downloads/RawData.csv")
+df=pd.read_csv("~/Desktop/mini_project_1/RawData.csv")
 print(df.head)
 print(df.shape) #189 rows x 7 columns (189 patients x 7 vars)
 print(df.columns) #Index(['SSI', 'Gender', 'Approach', 'PreOPCRP', 'PostOpCRP', 'PreOpAlbumin', 'PreOpWCC'], dtype='object')
@@ -166,7 +166,7 @@ plt.show()
 # [11.85714286, 15.14285714]]))
 
 ## 3. SSI vs GENDER:
-df=pd.read_csv("~/Downloads/RawData.csv")
+df=pd.read_csv("~/Desktop/mini_project_1/RawData.csv")
 print(df.groupby("SSI")["Gender"].describe())
 #count unique     top freq
 #SSI                          
