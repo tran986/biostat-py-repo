@@ -1,6 +1,6 @@
 #    Patient Data Analysis and Visualization
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow.svg)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green.svg)
 ![SciPy](https://img.shields.io/badge/Library-SciPy-orange.svg)
