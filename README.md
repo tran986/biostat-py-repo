@@ -14,10 +14,10 @@ The project demonstrates data preprocessing, statistical analysis, and visualiza
 Raw data for data reproducibility can be found in the project directory
 
 ##    Research Questions:
-### 1. Descriptive statistics
-### 2. Is the presence of SSI independent (or dependent) from surgical approach?
-### 3. Is the presence of SSI independent (or dependent) from gender?
-### 4. Is there a significant difference in the rise of CRP (before and after surgery) b/w patients with and without SSI
-### 5. Is there a significant difference in pre-operative albumin level (PreOpAlbumin) b/w patients with and without SSI
-### 6. Is there a significant difference in pre-operative white cell counts b/w patients with and without SSI
+ 1. Descriptive statistics
+ 2. Is the presence of SSI independent (or dependent) from surgical approach?
+ 3. Is the presence of SSI independent (or dependent) from gender?
+ 4. Is there a significant difference in the rise of CRP (before and after surgery) b/w patients with and without SSI
+ 5. Is there a significant difference in pre-operative albumin level (PreOpAlbumin) b/w patients with and without SSI
+ 6. Is there a significant difference in pre-operative white cell counts b/w patients with and without SSI
 
