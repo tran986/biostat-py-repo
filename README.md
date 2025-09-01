@@ -23,3 +23,9 @@ Raw data for data reproducibility can be found in the project directory
 
 ##  Contribution/Citation:
 Raw Data provided by Dr. Juan Klopper (Department of Biostatistics and Bioinformatics) from Milken Institute School of Public Health, The George Washington University Washington D.C.
+
+## Sumamrized results and figures:
+<img width="995" height="496" alt="Screenshot 2025-09-01 at 7 52 38 PM" src="https://github.com/user-attachments/assets/f7e3ed02-a459-4cfd-a801-e024ad9dcfd3" />
+
+
+
