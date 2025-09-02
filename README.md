@@ -29,9 +29,8 @@ Gender:
 <img width="989" height="494" alt="Screenshot 2025-09-01 at 7 52 51 PM" src="https://github.com/user-attachments/assets/5033a9c6-542f-4cfb-a0c4-d0c35d5aedcd" />
 
 CPR level:
-<img width="588" height="491" alt="Screenshot 2025-09-01 at 7 53 00 PM" src="https://github.com/user-attachments/assets/ba32e1d1-1c0f-4b27-aa6f-fc807e66dc
-<img width="1373" height="774" alt="Screenshot 2025-09-01 at 7 53 39 PM" src="https://github.com/user-attachments/assets/cadb465c-f53d-4e69-94e6-48dbfd99e40a" />
-04" />
+<img width="1373" height="774" alt="Screenshot 2025-09-01 at 7 53 39 PM" src="https://github.com/user-attachments/assets/968c6964-2ff6-4df6-a08b-62d8d6c921b2" />
+<img width="588" height="491" alt="Screenshot 2025-09-01 at 7 53 00 PM" src="https://github.com/user-attachments/assets/7926be1c-cb7d-4fac-a4fe-8c6594f93e01" />
 
 Pre-op albumin level:
 <img width="591" height="491" alt="Screenshot 2025-09-01 at 7 54 00 PM" src="https://github.com/user-attachments/assets/aed4cb44-48c6-4521-b459-7d6d1243ec74" />
