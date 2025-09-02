@@ -21,7 +21,7 @@ Raw data for data reproducibility can be found in the project directory
  5. Is there a significant difference in pre-operative albumin level (PreOpAlbumin) b/w patients with and without SSI
  6. Is there a significant difference in pre-operative white cell counts b/w patients with and without SSI
 
-## Sumamrized results and figures:
+##    Figures:
 A. Surgical approach:
 
 <img width="995" height="496" alt="Screenshot 2025-09-01 at 7 52 38 PM" src="https://github.com/user-attachments/assets/f7e3ed02-a459-4cfd-a801-e024ad9dcfd3" />
@@ -43,6 +43,16 @@ D. Pre-op albumin level:
 E. White blood cell count:
 
 <img width="1376" height="773" alt="Screenshot 2025-09-01 at 7 54 20 PM" src="https://github.com/user-attachments/assets/b10690d9-d325-44f1-8e92-f72b6a8201e0" />
+
+##  Summarized results:
+
+| Variables Tested with SSI | Test(s) Done | Significant (Yes/No) | pvalue | Graph |
+|---|---|---|---|---|
+| Surgical Approach | Chi-Square | Yes | 7.751498e-03 | Bar |
+| Gender | Chi-Square | No | 4.178870e-01 | Bar |
+| DeltaCRP | Shapiro/Mann Whitney U | Yes | 7.976901e-07 | Violin/Boxplot |
+| Pre-Op Albumin | Shapiro/Barlett/Man Whitney U | Yes | 3.099776e-01 | Violin/Boxplot |
+| PreOpWCC | Shapiro/Barlett/ttest | No | 4.815974e-01 | 4.815974e-01 | Boxplot |
 
 ##  Contribution/Citation:
 Raw Data provided by Dr. Juan Klopper (Department of Biostatistics and Bioinformatics) from Milken Institute School of Public Health, The George Washington University Washington D.C.
