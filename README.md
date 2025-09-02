@@ -52,7 +52,7 @@ E. White blood cell count:
 | Gender | Chi-Square | No | 4.178870e-01 | Bar |
 | DeltaCRP | Shapiro/Mann Whitney U | Yes | 7.976901e-07 | Violin/Boxplot |
 | Pre-Op Albumin | Shapiro/Barlett/Man Whitney U | Yes | 3.099776e-01 | Violin/Boxplot |
-| PreOpWCC | Shapiro/Barlett/ttest | No | 4.815974e-01 | 4.815974e-01 | Boxplot |
+| PreOpWCC | Shapiro/Barlett/ttest | No | 4.815974e-01 | Boxplot |
 
 ##  Contribution/Citation:
 Raw Data provided by Dr. Juan Klopper (Department of Biostatistics and Bioinformatics) from Milken Institute School of Public Health, The George Washington University Washington D.C.
