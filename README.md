@@ -54,7 +54,8 @@ E. White blood cell count:
 | Pre-Op Albumin | Shapiro/Barlett/Man Whitney U | Yes | 3.099776e-01 | Violin/Boxplot |
 | PreOpWCC | Shapiro/Barlett/ttest | No | 4.815974e-01 | Boxplot |
 
+*P-values for "Pre-op Albumin" and "Pre-op White cell count" (PreOpWCC) are determined from Mann Whitney U test. All significance tests use alpha level of 0.05.
+
 ##  Contribution/Citation:
 Raw Data provided by Dr. Juan Klopper (Department of Biostatistics and Bioinformatics) from Milken Institute School of Public Health, The George Washington University Washington D.C.
-
 
