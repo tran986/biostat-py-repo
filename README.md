@@ -9,7 +9,7 @@
 ![NumPy](https://img.shields.io/badge/Library-NumPy-orange.svg)
 
 ##    Description:
-A biostatistics project analyzing patient data with Skin and soft tissue infection (SSI) using Python, with the overall aim to understand how SSI is related to factors, such as genders, surgical approaches, or c-reative proteins, etc... (specific questions can be found below).
+This is a mini biostatistics project analyzing patient data with Skin and soft tissue infection (SSI) using Python, with the overall aim to understand how SSI is related to factors, such as genders, surgical approaches, or c-reative proteins, etc... (specific questions can be found below).
 The project demonstrates data preprocessing, statistical analysis, and visualization methods for biomedical research. 
 Raw data for data reproducibility can be found in the project directory
 
