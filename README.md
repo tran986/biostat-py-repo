@@ -1,4 +1,4 @@
-#    Patient Data Analysis and Visualization
+#    Skin and Soft Tissue Patient Data Analysis and Visualization
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow.svg)
